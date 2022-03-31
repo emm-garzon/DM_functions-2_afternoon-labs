@@ -106,7 +106,7 @@ console.log(myStrongest);
 
 // Do not edit code below.
 const orders = [
-  { price: 15, tax: 0.09 }, // price * 1.09 = total w/tax
+  { price: 15, tax: 0.09 }, // total price = price (price * tax)
   { price: 42, tax: 0.07 },
   { price: 56, tax: 0.11 },
   { price: 80, tax: 0.11 },
